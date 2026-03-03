@@ -220,6 +220,518 @@
       "durationLabel": "1:15:00"
     }
   ],
+  "playlists": [
+    {
+      "id": "seerah-yasir-qadhi",
+      "title": "Seerah of Prophet Muhammad ﷺ — Complete Series",
+      "description": "Dr. Yasir Qadhi's landmark 100-episode Seerah series — the most comprehensive English-language biography of the Prophet ﷺ, from birth to the Farewell Sermon.",
+      "channelName": "Yasir Qadhi",
+      "emoji": "🌙",
+      "colorHex": "FF4A148C",
+      "videos": [
+        {
+          "youtubeId": "VOUp3ZZ9t3A",
+          "title": "Ep 1 — Specialities of Prophet Muhammed",
+          "durationLabel": "45:31"
+        },
+        {
+          "youtubeId": "udjM4dBVicE",
+          "title": "Ep 2 — Specialities of Prophet Muhammed Part 2",
+          "durationLabel": "1:07:41"
+        },
+        {
+          "youtubeId": "4F5qzMI2IKs",
+          "title": "Ep 3 — Why Study the Seerah? & Pre-Islamic Arabia",
+          "durationLabel": "1:09:06"
+        },
+        {
+          "youtubeId": "ey7UAi_Emgs",
+          "title": "Ep 4 — Religious Status of the World Before Islam",
+          "durationLabel": "1:17:38"
+        },
+        {
+          "youtubeId": "629isa8LujE",
+          "title": "Ep 5 — Genealogy & Year of the Elephant",
+          "durationLabel": "1:17:22"
+        },
+        {
+          "youtubeId": "Aln07CIO_BM",
+          "title": "Ep 6 — The Birth of Prophet Muhammed & Why Arabia?",
+          "durationLabel": "1:09:31"
+        },
+        {
+          "youtubeId": "R81PW40t-dk",
+          "title": "Ep 7 — The Early Childhood of Prophet Muhammed",
+          "durationLabel": "1:12:41"
+        },
+        {
+          "youtubeId": "BKh04EyJw1g",
+          "title": "Ep 8 — The Early Manhood of Prophet Muhammed",
+          "durationLabel": "1:12:31"
+        },
+        {
+          "youtubeId": "-ExBQO7sAWY",
+          "title": "Ep 9 — Marriage to Khadija & Re-building Kaa'ba",
+          "durationLabel": "1:12:36"
+        },
+        {
+          "youtubeId": "nIpG-3Fvk4c",
+          "title": "Ep 10 — Zayd b. Harithah & Beginning of Revelation",
+          "durationLabel": "1:26:21"
+        },
+        {
+          "youtubeId": "WnQsjVWuiG0",
+          "title": "Ep 11 — The Second Revelation",
+          "durationLabel": "1:15:51"
+        },
+        {
+          "youtubeId": "_4VYHZ1vYZc",
+          "title": "Ep 12 — Declaration of Prophethood",
+          "durationLabel": "1:17:16"
+        },
+        {
+          "youtubeId": "tcEZ3f0lDko",
+          "title": "Ep 13 — Opposition from the Quraysh",
+          "durationLabel": "1:13:22"
+        },
+        {
+          "youtubeId": "7xedNPpAR2M",
+          "title": "Ep 14 — Torture and Persecution of the Weak",
+          "durationLabel": "1:07:55"
+        },
+        {
+          "youtubeId": "kN1Hnvo8Lo4",
+          "title": "Ep 15 — Torture to the Prophet & Abyssinia",
+          "durationLabel": "1:13:02"
+        },
+        {
+          "youtubeId": "X8CDvhM3arg",
+          "title": "Ep 16 — The Incident of the Satanic Verses",
+          "durationLabel": "1:06:21"
+        },
+        {
+          "youtubeId": "RBDX11n0I20",
+          "title": "Ep 17 — The Second Migration to Abyssinia",
+          "durationLabel": "1:22:06"
+        },
+        {
+          "youtubeId": "q2bsjom_y8o",
+          "title": "Ep 18 — Conversion of Omar & Hamza and Boycott",
+          "durationLabel": "1:10:52"
+        },
+        {
+          "youtubeId": "j8aAK6BUav0",
+          "title": "Ep 19 — Death of Khadija & Abu Talib",
+          "durationLabel": "58:57"
+        },
+        {
+          "youtubeId": "o_LsNYWbddk",
+          "title": "Ep 20 — Incident of Ta'if",
+          "durationLabel": "1:18:22"
+        },
+        {
+          "youtubeId": "lNBtUF7-uhQ",
+          "title": "Ep 21 — Night Journey & Ascension to Heavens 1",
+          "durationLabel": "1:24:03"
+        },
+        {
+          "youtubeId": "128GJfzeMwI",
+          "title": "Ep 22 — Night Journey & Ascension to Heavens 2",
+          "durationLabel": "1:19:43"
+        },
+        {
+          "youtubeId": "YrotFQRti0k",
+          "title": "Ep 23 — Night Journey & Ascension to Heavens 3",
+          "durationLabel": "1:13:08"
+        },
+        {
+          "youtubeId": "uKbqn5YuOV8",
+          "title": "Ep 24 — Planting the Seeds for Yathrib",
+          "durationLabel": "1:12:07"
+        },
+        {
+          "youtubeId": "HFLeh7y7j6w",
+          "title": "Ep 25 — The Covenant of Women & War Protection",
+          "durationLabel": "59:46"
+        },
+        {
+          "youtubeId": "UaWVK-vD4_s",
+          "title": "Ep 26 — The Early Emigration to Madinah",
+          "durationLabel": "1:22:43"
+        },
+        {
+          "youtubeId": "utKZzIWZ0I4",
+          "title": "Ep 27 — The Hijrah — Emigration to Madinah",
+          "durationLabel": "1:07:51"
+        },
+        {
+          "youtubeId": "ptvkYQuWgmU",
+          "title": "Ep 28 — Lessons from Hijrah & Blessings of Madinah",
+          "durationLabel": "1:12:51"
+        },
+        {
+          "youtubeId": "j41qC7kVfCc",
+          "title": "Ep 29 — Introduction to the Madani Phase",
+          "durationLabel": "49:04"
+        },
+        {
+          "youtubeId": "zeka7Ci0iV8",
+          "title": "Ep 30 — The Beginning of the Madani Era",
+          "durationLabel": "1:19:10"
+        },
+        {
+          "youtubeId": "KoKc9ZuATao",
+          "title": "Ep 31 — Building of the First Mosques in Islam",
+          "durationLabel": "1:04:37"
+        },
+        {
+          "youtubeId": "4XwMBCgDiMk",
+          "title": "Ep 32 — The People of As-Suffa",
+          "durationLabel": "1:11:26"
+        },
+        {
+          "youtubeId": "VB7cY3ZGiqA",
+          "title": "Ep 33 — The Treaty & Constitution of Madinah",
+          "durationLabel": "1:25:00"
+        },
+        {
+          "youtubeId": "6Km5XNLLMdw",
+          "title": "Ep 34 — Change of the Qiblah & Abrogation in Qur'an",
+          "durationLabel": "1:15:24"
+        },
+        {
+          "youtubeId": "ANWdhr6LBbQ",
+          "title": "Ep 35 — The Preparation for Badr",
+          "durationLabel": "1:16:50"
+        },
+        {
+          "youtubeId": "q7P58swk9MM",
+          "title": "Ep 36 — The Battle of Badr 1",
+          "durationLabel": "1:25:38"
+        },
+        {
+          "youtubeId": "WtzQCwTfWac",
+          "title": "Ep 37 — The Battle of Badr 2",
+          "durationLabel": "1:29:17"
+        },
+        {
+          "youtubeId": "gBRavt3qxdM",
+          "title": "Ep 38 — The Battle of Badr 3",
+          "durationLabel": "1:37:41"
+        },
+        {
+          "youtubeId": "EOF_quR7hKc",
+          "title": "Ep 39 — The Battle of Badr 4",
+          "durationLabel": "1:25:20"
+        },
+        {
+          "youtubeId": "RMsFEOzcNpk",
+          "title": "Ep 40 — The Battle of Badr 5",
+          "durationLabel": "1:29:38"
+        },
+        {
+          "youtubeId": "fxhVPZYC20g",
+          "title": "Ep 41 — The Battle of Badr 6",
+          "durationLabel": "1:27:45"
+        },
+        {
+          "youtubeId": "N4oCwMagirM",
+          "title": "Ep 42 — The Battle of Badr 7",
+          "durationLabel": "1:28:06"
+        },
+        {
+          "youtubeId": "IgY3lFhBj_g",
+          "title": "Ep 43 — Events between Badr & Uhud",
+          "durationLabel": "1:21:04"
+        },
+        {
+          "youtubeId": "2P8EmMQ98qE",
+          "title": "Ep 44 — Assassination of Ka'b ibn al-Ashraf",
+          "durationLabel": "1:02:20"
+        },
+        {
+          "youtubeId": "BoIr6tVXw00",
+          "title": "Ep 45 — Summary of Meccan Period",
+          "durationLabel": "1:20:10"
+        },
+        {
+          "youtubeId": "YtpKPVI3c4M",
+          "title": "Ep 46 — The Battle of Uhud Part 1",
+          "durationLabel": "1:21:39"
+        },
+        {
+          "youtubeId": "PlWMZHB7Xio",
+          "title": "Ep 47 — The Battle of Uhud Part 2",
+          "durationLabel": "1:14:31"
+        },
+        {
+          "youtubeId": "ahHVQuvhUtg",
+          "title": "Ep 48 — Martyrdom of Hamza & Uhud Part 3",
+          "durationLabel": "1:13:22"
+        },
+        {
+          "youtubeId": "WGnJH5o2xj8",
+          "title": "Ep 49 — The Prophet Injured & Uhud Part 4",
+          "durationLabel": "1:02:20"
+        },
+        {
+          "youtubeId": "n6W-GPxCbqw",
+          "title": "Ep 50 — The Battle of Uhud Part 5",
+          "durationLabel": "1:09:28"
+        },
+        {
+          "youtubeId": "xyFR8wI9MfA",
+          "title": "Ep 51 — Massacres of Al Raji & Bir Ma'una",
+          "durationLabel": "1:09:50"
+        },
+        {
+          "youtubeId": "NZD-MuFCoEQ",
+          "title": "Ep 52 — Background of the Wives of Muhammad",
+          "durationLabel": "1:15:44"
+        },
+        {
+          "youtubeId": "0wCxb_pJTBk",
+          "title": "Ep 53 — Expulsion of Banu Nadheer",
+          "durationLabel": "1:12:03"
+        },
+        {
+          "youtubeId": "6zWX6aOKuPo",
+          "title": "Ep 54 — Expedition of al-Muraysi & Banu al-Mustaliq",
+          "durationLabel": "1:14:08"
+        },
+        {
+          "youtubeId": "UPsyujnA2KM",
+          "title": "Ep 55 — Return from Al-Muraysi & Slander of Aisha P1",
+          "durationLabel": "1:13:32"
+        },
+        {
+          "youtubeId": "v_TOXkO0mYs",
+          "title": "Ep 56 — The Slander of Aisha (ra) Part 2",
+          "durationLabel": "1:24:59"
+        },
+        {
+          "youtubeId": "s6CGxZbH4CY",
+          "title": "Ep 57 — The Battle of Khandaq/Ahzab",
+          "durationLabel": "1:13:27"
+        },
+        {
+          "youtubeId": "2c68tH3O5xA",
+          "title": "Ep 58 — The Battle of Khandaq/Ahzab Part 2",
+          "durationLabel": "55:40"
+        },
+        {
+          "youtubeId": "8RixalZYJM0",
+          "title": "Ep 59 — The Battle of Khandaq/Ahzab Part 3",
+          "durationLabel": "1:16:18"
+        },
+        {
+          "youtubeId": "m-jclg6LY0g",
+          "title": "Ep 60 — The Battle of Khandaq/Ahzab Part 4",
+          "durationLabel": "1:10:05"
+        },
+        {
+          "youtubeId": "UZE1N56fswY",
+          "title": "Ep 61 — The Tribe of Banu Quraytha",
+          "durationLabel": "1:23:10"
+        },
+        {
+          "youtubeId": "8NQwoBoj-3g",
+          "title": "Ep 62 — Minor Expeditions Between Khandaq & Hudaybiyyah",
+          "durationLabel": "1:15:41"
+        },
+        {
+          "youtubeId": "xntLOocUCRk",
+          "title": "Ep 63 — Between the Battle of Khandaq & Hudaybiyya P1",
+          "durationLabel": "1:15:21"
+        },
+        {
+          "youtubeId": "kHdmBfZk60c",
+          "title": "Ep 64 — The Treaty of Hudaybiyya Part 2",
+          "durationLabel": "1:26:33"
+        },
+        {
+          "youtubeId": "DtvaaYZAIH8",
+          "title": "Ep 65 — The Treaty of Hudaybiyya Part 3",
+          "durationLabel": "1:20:17"
+        },
+        {
+          "youtubeId": "3T9ISoCbRbw",
+          "title": "Ep 66 — The Treaty of Hudaybiyya Part 4",
+          "durationLabel": "1:19:26"
+        },
+        {
+          "youtubeId": "XlcZj24RJ8g",
+          "title": "Ep 67 — The Treaty of Hudaybiyya Part 5",
+          "durationLabel": "1:23:09"
+        },
+        {
+          "youtubeId": "JPOUU8DRpGc",
+          "title": "Ep 68 — The Battle of Khaybar Part 1",
+          "durationLabel": "1:12:40"
+        },
+        {
+          "youtubeId": "kbaorsGGFio",
+          "title": "Ep 69 — The Prophet's Marriage to Zaynab",
+          "durationLabel": "1:19:49"
+        },
+        {
+          "youtubeId": "oWx_sjaW17c",
+          "title": "Ep 70 — The Battle of Khaybar Part 2",
+          "durationLabel": "58:59"
+        },
+        {
+          "youtubeId": "ftklv1O4570",
+          "title": "Ep 71 — Letters to Various Rulers",
+          "durationLabel": "1:07:15"
+        },
+        {
+          "youtubeId": "W2Xov5QXgCw",
+          "title": "Ep 72 — Umrah Al Qadah",
+          "durationLabel": "1:09:55"
+        },
+        {
+          "youtubeId": "oknMkd2LJEs",
+          "title": "Ep 73 — Battle of Mu'tah Part 1",
+          "durationLabel": "1:16:52"
+        },
+        {
+          "youtubeId": "5rxpD4hwkZg",
+          "title": "Ep 74 — Battle of Mu'tah Part 2",
+          "durationLabel": "1:06:30"
+        },
+        {
+          "youtubeId": "axuLd5cJdIk",
+          "title": "Ep 75 — Recap & Battle of Dhat Al Salasil",
+          "durationLabel": "59:59"
+        },
+        {
+          "youtubeId": "r8VScnCrFZA",
+          "title": "Ep 76 — The Conquest of Makkah Part 1",
+          "durationLabel": "58:24"
+        },
+        {
+          "youtubeId": "FkNBLCefEqE",
+          "title": "Ep 77 — The Conquest of Makkah Part 2",
+          "durationLabel": "1:13:08"
+        },
+        {
+          "youtubeId": "G3B2vLmMjOk",
+          "title": "Ep 78 — The Conquest of Makkah Part 3",
+          "durationLabel": "1:05:15"
+        },
+        {
+          "youtubeId": "odDx01yIJ8A",
+          "title": "Ep 79 — The Conquest of Makkah Part 4",
+          "durationLabel": "1:05:57"
+        },
+        {
+          "youtubeId": "FjFRwn47fHc",
+          "title": "Ep 80 — The Conquest of Makkah Part 5",
+          "durationLabel": "1:17:31"
+        },
+        {
+          "youtubeId": "iHGjT3Ey1Yo",
+          "title": "Ep 81 — The Conquest of Makkah Part 6",
+          "durationLabel": "1:13:19"
+        },
+        {
+          "youtubeId": "ttEsGxFxDKA",
+          "title": "Ep 82 — Battle of Hunayn Part 1",
+          "durationLabel": "1:03:51"
+        },
+        {
+          "youtubeId": "ALiBDNykR28",
+          "title": "Ep 83 — Battle of Hunayn Part 2",
+          "durationLabel": "1:25:23"
+        },
+        {
+          "youtubeId": "dP--QLPUK_8",
+          "title": "Ep 84 — Conversion of Ka'b ibn Zuhayr",
+          "durationLabel": "58:00"
+        },
+        {
+          "youtubeId": "s6P90lMdtGs",
+          "title": "Ep 85 — Miracles of Prophet Muhammad",
+          "durationLabel": "1:18:04"
+        },
+        {
+          "youtubeId": "3gb3ES-rEFQ",
+          "title": "Ep 86 — Recap & Lessons from Hunayn & Ta'if",
+          "durationLabel": "1:14:12"
+        },
+        {
+          "youtubeId": "UL66Hz1zCHE",
+          "title": "Ep 87 — Battle of Tabuk 1",
+          "durationLabel": "1:03:10"
+        },
+        {
+          "youtubeId": "mDqtRYJx3aE",
+          "title": "Ep 88 — Battle of Tabuk 2",
+          "durationLabel": "1:07:55"
+        },
+        {
+          "youtubeId": "h8S98oEMDqY",
+          "title": "Ep 89 — Story of Ka'b b. Malik",
+          "durationLabel": "1:16:37"
+        },
+        {
+          "youtubeId": "uDV4c9eFsO8",
+          "title": "Ep 90 — Battle of Tabuk 3",
+          "durationLabel": "1:21:18"
+        },
+        {
+          "youtubeId": "kkG3MTcn24s",
+          "title": "Ep 91 — Battle of Tabuk 4",
+          "durationLabel": "1:04:10"
+        },
+        {
+          "youtubeId": "zF1KpnLdpy4",
+          "title": "Ep 92 — Battle of Tabuk 5",
+          "durationLabel": "1:13:09"
+        },
+        {
+          "youtubeId": "1MQ-OiuxFIQ",
+          "title": "Ep 93 — Tafsir of Surat At-Tawbah & Tabuk",
+          "durationLabel": "1:16:09"
+        },
+        {
+          "youtubeId": "41lsMsBFJw0",
+          "title": "Ep 94 — The Year of Delegations Part 1",
+          "durationLabel": "1:03:28"
+        },
+        {
+          "youtubeId": "yVo02DN_CpQ",
+          "title": "Ep 95 — The Year of Delegations Part 2",
+          "durationLabel": "1:15:03"
+        },
+        {
+          "youtubeId": "Z4C6lT97m1g",
+          "title": "Ep 96 — The Year of Delegations Part 3",
+          "durationLabel": "1:19:58"
+        },
+        {
+          "youtubeId": "lvBgwrl-UC0",
+          "title": "Ep 97 — Maria the Copt & Death of Ibrahim",
+          "durationLabel": "1:13:44"
+        },
+        {
+          "youtubeId": "9iAIM0ovd6o",
+          "title": "Ep 98 — Marital Dispute with the Wives",
+          "durationLabel": "1:15:23"
+        },
+        {
+          "youtubeId": "SqHeDNhB2Ss",
+          "title": "Ep 99 — Verse of Sword & Hajj of Abu Bakr",
+          "durationLabel": "1:13:55"
+        },
+        {
+          "youtubeId": "P_AePuWstbY",
+          "title": "Ep 100 — The Farewell Hajj",
+          "durationLabel": "1:21:22"
+        }
+      ]
+    }
+  ],
   "categories": [
     {
       "id": "shahadah",
