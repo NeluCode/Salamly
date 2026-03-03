@@ -1,0 +1,742 @@
+{
+  "version": 1,
+  "featured": [
+    {
+      "type": "video",
+      "id": "f:99names",
+      "title": "The 99 Names of Allah — Al-Asmā' al-Ḥusnā",
+      "description": "Mufti Menk explores the profound meanings of Allah's Most Beautiful Names and how knowing them transforms your relationship with your Creator.",
+      "thumbnailEmoji": "الله",
+      "colorHex": "FF1B5E20",
+      "youtubeId": "ta_tTZrarE0",
+      "durationLabel": "1:12:04",
+      "channelName": "Mufti Menk"
+    },
+    {
+      "type": "article",
+      "id": "f:tawheed_article",
+      "title": "Tawheed: The Oneness of Allah",
+      "description": "The central concept in Islam — its three dimensions, what it means in practice, and why everything in the Deen revolves around it.",
+      "thumbnailEmoji": "☝️",
+      "colorHex": "FF4A148C",
+      "readMins": 7
+    },
+    {
+      "type": "video",
+      "id": "f:seerah_video",
+      "title": "The Story of Prophet Yusuf ﷺ",
+      "description": "Described by Allah as 'the best of stories' — Nouman Ali Khan unveils layers of wisdom from Surah Yusuf that speak to every human heart.",
+      "thumbnailEmoji": "🌟",
+      "colorHex": "FF0D47A1",
+      "youtubeId": "8VugWPFM2Go",
+      "durationLabel": "18:45",
+      "channelName": "Nouman Ali Khan"
+    },
+    {
+      "type": "article",
+      "id": "f:shahadah_article",
+      "title": "The Shahadah: Gateway to Islam",
+      "description": "The declaration of faith — its seven conditions, its weight, and how truly living it transforms every aspect of your life.",
+      "thumbnailEmoji": "🕋",
+      "colorHex": "FF006064",
+      "readMins": 5
+    },
+    {
+      "type": "article",
+      "id": "f:dua_power",
+      "title": "The Power of Dua",
+      "description": "How supplication connects you directly to Allah — the etiquette, the best times, and life-changing duas from the Quran and Sunnah.",
+      "thumbnailEmoji": "🤲",
+      "colorHex": "FF33691E",
+      "readMins": 6
+    },
+    {
+      "type": "video",
+      "id": "f:seerah_full",
+      "title": "Seerah of the Prophet Muhammad ﷺ",
+      "description": "Dr. Yasir Qadhi's landmark Seerah series — from birth in Makkah to the Farewell Sermon that shaped civilisation.",
+      "thumbnailEmoji": "🌙",
+      "colorHex": "FF4A148C",
+      "youtubeId": "3lTUAFPCkPQ",
+      "durationLabel": "45:30",
+      "channelName": "Dr. Yasir Qadhi"
+    },
+    {
+      "type": "article",
+      "id": "f:ramadan_article",
+      "title": "Ramadan: The Month of Mercy",
+      "description": "Complete guide to Ramadan — its rulings, spiritual secrets, Laylat al-Qadr, and how to make every moment count.",
+      "thumbnailEmoji": "🌙",
+      "colorHex": "FF1A237E",
+      "readMins": 10
+    },
+    {
+      "type": "video",
+      "id": "f:quran_miracle",
+      "title": "The Miracle of the Quran — Linguistic & Scientific",
+      "description": "Hamza Tzortzis presents the case for the Quran's inimitability (I'jaz) — why no human could have authored this Book.",
+      "thumbnailEmoji": "📗",
+      "colorHex": "FF006064",
+      "youtubeId": "bB4cARIulqE",
+      "durationLabel": "55:20",
+      "channelName": "Hamza Tzortzis"
+    },
+    {
+      "type": "article",
+      "id": "f:heart_article",
+      "title": "Purification of the Heart (Tazkiyah)",
+      "description": "Ibn al-Qayyim's road map to a clean heart — diseases of the heart, their cures, and the path to spiritual excellence.",
+      "thumbnailEmoji": "💚",
+      "colorHex": "FF00695C",
+      "readMins": 8
+    },
+    {
+      "type": "video",
+      "id": "f:ihsan_video",
+      "title": "The Concept of Ihsan — Worshipping as if You See Allah",
+      "description": "Sheikh Omar Suleiman unpacks the third level of the religion — beyond Islam and Iman — and how to reach Ihsan.",
+      "thumbnailEmoji": "✨",
+      "colorHex": "FF37474F",
+      "youtubeId": "NoUm44S6A2w",
+      "durationLabel": "38:15",
+      "channelName": "Sheikh Omar Suleiman"
+    },
+    {
+      "type": "article",
+      "id": "f:jannah_article",
+      "title": "Jannah: What Awaits the Believers",
+      "description": "Vivid descriptions of Paradise from the Quran and authentic Hadith — rivers, palaces, companionship, and the greatest reward of seeing Allah.",
+      "thumbnailEmoji": "🌅",
+      "colorHex": "FF1565C0",
+      "readMins": 6
+    },
+    {
+      "type": "video",
+      "id": "f:arabic_video",
+      "title": "Why Every Muslim Should Learn Arabic",
+      "description": "Ustadh Nouman Ali Khan makes the case for learning the language of the Quran — and practical first steps to get started.",
+      "thumbnailEmoji": "🔤",
+      "colorHex": "FF4E342E",
+      "youtubeId": "sZrqiMf5QGo",
+      "durationLabel": "28:45",
+      "channelName": "Nouman Ali Khan"
+    }
+  ],
+  "videos": [
+    {
+      "youtubeId": "3lTUAFPCkPQ",
+      "title": "Seerah of the Prophet ﷺ — Complete Series",
+      "channelName": "Dr. Yasir Qadhi",
+      "durationLabel": "45:30"
+    },
+    {
+      "youtubeId": "NoUm44S6A2w",
+      "title": "The Concept of Ihsan — Worship as if You See Allah",
+      "channelName": "Sheikh Omar Suleiman",
+      "durationLabel": "38:15"
+    },
+    {
+      "youtubeId": "8VugWPFM2Go",
+      "title": "The Story of Prophet Yusuf ﷺ — Best of Stories",
+      "channelName": "Nouman Ali Khan",
+      "durationLabel": "18:45"
+    },
+    {
+      "youtubeId": "7Rmr_bHSVFM",
+      "title": "The 99 Names of Allah Explained",
+      "channelName": "Mufti Menk",
+      "durationLabel": "1:12:04"
+    },
+    {
+      "youtubeId": "Ow5d54nwEfk",
+      "title": "The Five Pillars of Islam — Deep Dive",
+      "channelName": "Yaqeen Institute",
+      "durationLabel": "32:10"
+    },
+    {
+      "youtubeId": "sZrqiMf5QGo",
+      "title": "Why Every Muslim Should Learn Arabic",
+      "channelName": "Nouman Ali Khan",
+      "durationLabel": "28:45"
+    },
+    {
+      "youtubeId": "bB4cARIulqE",
+      "title": "The Miracle of the Quran — I'jaz Explained",
+      "channelName": "Hamza Tzortzis",
+      "durationLabel": "55:20"
+    },
+    {
+      "youtubeId": "K7FGyAz0KHA",
+      "title": "Dealing with Anxiety — An Islamic Perspective",
+      "channelName": "Sheikh Omar Suleiman",
+      "durationLabel": "41:15"
+    },
+    {
+      "youtubeId": "dCHMnYAGfEM",
+      "title": "Tazkiyah — Purification of the Soul",
+      "channelName": "Sheikh Hamza Yusuf",
+      "durationLabel": "52:00"
+    },
+    {
+      "youtubeId": "yxWCqdDEXiY",
+      "title": "Understanding the Day of Judgment",
+      "channelName": "Dr. Yasir Qadhi",
+      "durationLabel": "1:08:30"
+    },
+    {
+      "youtubeId": "fCdP6Ts-NkE",
+      "title": "Stories of the Prophets — Adam to Ibrahim ﷺ",
+      "channelName": "Sheikh Omar Suleiman",
+      "durationLabel": "44:20"
+    },
+    {
+      "youtubeId": "VinaVJZfxGU",
+      "title": "The Islamic Golden Age — Lost History",
+      "channelName": "1001 Inventions",
+      "durationLabel": "22:40"
+    },
+    {
+      "youtubeId": "l_N1COXX2cM",
+      "title": "How to Build Khushu' in Your Salah",
+      "channelName": "Mufti Menk",
+      "durationLabel": "35:15"
+    },
+    {
+      "youtubeId": "pOsQPAH8cC4",
+      "title": "Ramadan — A Complete Spiritual Preparation Guide",
+      "channelName": "Sheikh Yasir Qadhi",
+      "durationLabel": "58:00"
+    },
+    {
+      "youtubeId": "N4nRGp7CGXM",
+      "title": "Sabr — The Beauty of Patience in Islam",
+      "channelName": "Sheikh Omar Suleiman",
+      "durationLabel": "29:45"
+    },
+    {
+      "youtubeId": "MqkN-J_LBSE",
+      "title": "Science and the Quran — No Contradiction",
+      "channelName": "Dr. Zakir Naik",
+      "durationLabel": "1:15:00"
+    }
+  ],
+  "categories": [
+    {
+      "id": "shahadah",
+      "title": "Shahadah & Tawheed",
+      "description": "The declaration of faith and Oneness of Allah",
+      "emoji": "🕋",
+      "colorHex": "FF006064"
+    },
+    {
+      "id": "quran",
+      "title": "Quran Studies",
+      "description": "Tafsir, Tajweed, and Quranic sciences",
+      "emoji": "📗",
+      "colorHex": "FF1B5E20"
+    },
+    {
+      "id": "seerah",
+      "title": "Seerah",
+      "description": "Life and legacy of the Prophet Muhammad ﷺ",
+      "emoji": "🌙",
+      "colorHex": "FF4A148C"
+    },
+    {
+      "id": "pillars",
+      "title": "Five Pillars",
+      "description": "The foundations of Islamic practice",
+      "emoji": "🏛️",
+      "colorHex": "FF37474F"
+    },
+    {
+      "id": "duas",
+      "title": "Duas & Adhkar",
+      "description": "Supplications and daily remembrances",
+      "emoji": "🤲",
+      "colorHex": "FF33691E"
+    },
+    {
+      "id": "aqeedah",
+      "title": "Aqeedah",
+      "description": "Islamic creed — belief in Allah, angels, and beyond",
+      "emoji": "☝️",
+      "colorHex": "FF880E4F"
+    },
+    {
+      "id": "history",
+      "title": "Islamic History",
+      "description": "Stories of prophets, caliphs, and civilisations",
+      "emoji": "📜",
+      "colorHex": "FF0D47A1"
+    },
+    {
+      "id": "fiqh",
+      "title": "Fiqh & Ibadah",
+      "description": "Rulings on worship, purification, and halal",
+      "emoji": "⚖️",
+      "colorHex": "FF4E342E"
+    },
+    {
+      "id": "akhlaq",
+      "title": "Akhlaq & Character",
+      "description": "Islamic manners, ethics, and inner qualities",
+      "emoji": "💎",
+      "colorHex": "FF1A237E"
+    },
+    {
+      "id": "family",
+      "title": "Family & Society",
+      "description": "Marriage, parenting, and social relations",
+      "emoji": "🏡",
+      "colorHex": "FF5D4037"
+    },
+    {
+      "id": "heart",
+      "title": "Spirituality & Heart",
+      "description": "Tazkiyah, purification of the soul, and Ihsan",
+      "emoji": "💚",
+      "colorHex": "FF00695C"
+    },
+    {
+      "id": "prophets",
+      "title": "Prophets & Their Stories",
+      "description": "The 25 prophets — their missions, trials, and lessons",
+      "emoji": "👁️",
+      "colorHex": "FF6A1B9A"
+    },
+    {
+      "id": "arabic",
+      "title": "Arabic Language",
+      "description": "Learn the language of the Quran step by step",
+      "emoji": "🔤",
+      "colorHex": "FF1565C0"
+    },
+    {
+      "id": "science",
+      "title": "Science & Islam",
+      "description": "The Quran, Islamic scholars, and modern science",
+      "emoji": "🔬",
+      "colorHex": "FF2E7D32"
+    },
+    {
+      "id": "youth",
+      "title": "Youth & Modern Life",
+      "description": "Navigating deen in the modern world",
+      "emoji": "🌟",
+      "colorHex": "FFE65100"
+    },
+    {
+      "id": "ethics",
+      "title": "Islamic Ethics & Society",
+      "description": "Justice, environment, economics, and global affairs",
+      "emoji": "🌍",
+      "colorHex": "FF283593"
+    }
+  ],
+  "articles": {
+    "shahadah": [
+      {
+        "id": "shahadah:gateway",
+        "title": "The Shahadah: Gateway to Islam",
+        "snippet": "The declaration of faith — its meaning, conditions, and life-changing weight.",
+        "readMins": 6,
+        "emoji": "🕋"
+      },
+      {
+        "id": "shahadah:conditions",
+        "title": "The Seven Conditions of the Shahadah",
+        "snippet": "Knowledge, certainty, acceptance, compliance, truthfulness, sincerity, love.",
+        "readMins": 8,
+        "emoji": "📋"
+      },
+      {
+        "id": "shahadah:lailaha",
+        "title": "The Meaning of 'Lā ilāha illallāh'",
+        "snippet": "Negating every false deity and affirming Allah alone as the only true God.",
+        "readMins": 7,
+        "emoji": "☝️"
+      },
+      {
+        "id": "shahadah:rasool",
+        "title": "Muhammad Rasulullah ﷺ",
+        "snippet": "Testifying the prophethood — what it demands of belief, love, and obedience.",
+        "readMins": 6,
+        "emoji": "🌟"
+      },
+      {
+        "id": "shahadah:daily",
+        "title": "Living the Shahadah Daily",
+        "snippet": "How faith must filter every decision, relationship, and ambition.",
+        "readMins": 5,
+        "emoji": "🌱"
+      },
+      {
+        "id": "shahadah:nullifiers",
+        "title": "Nullifiers of Islam",
+        "snippet": "Ten major actions that contradict and invalidate a person's Shahadah.",
+        "readMins": 9,
+        "emoji": "⚠️"
+      },
+      {
+        "id": "shahadah:tawheed",
+        "title": "The Three Categories of Tawheed",
+        "snippet": "Rububiyyah, Ulūhiyyah, and Asmā' wa'l-Ṣifāt — explained with evidence.",
+        "readMins": 8,
+        "emoji": "⚖️"
+      },
+      {
+        "id": "shahadah:shirk",
+        "title": "Understanding Shirk",
+        "snippet": "The gravest sin — major and minor forms, causes, and how to guard against it.",
+        "readMins": 9,
+        "emoji": "💔"
+      },
+      {
+        "id": "shahadah:love",
+        "title": "The Love of Allah — The Highest Station",
+        "snippet": "How love of Allah manifests and what it demands of the believer.",
+        "readMins": 7,
+        "emoji": "❤️"
+      },
+      {
+        "id": "shahadah:tawbah",
+        "title": "Tawbah: Sincere Repentance",
+        "snippet": "Allah's door of repentance is always open — its conditions and how to make it.",
+        "readMins": 5,
+        "emoji": "🌿"
+      }
+    ],
+    "quran": [
+      {
+        "id": "quran:tafsir",
+        "title": "Introduction to Tafsir",
+        "snippet": "The science of Quranic interpretation — levels, methods, and great scholars.",
+        "readMins": 5,
+        "emoji": "📗"
+      },
+      {
+        "id": "quran:fatiha",
+        "title": "Surah Al-Fatiha: The Opening",
+        "snippet": "The Mother of the Quran — seven verses containing the entire message.",
+        "readMins": 7,
+        "emoji": "🌟"
+      },
+      {
+        "id": "quran:tajweed",
+        "title": "Tajweed: Reciting the Quran Properly",
+        "snippet": "Rules that preserve exact pronunciation the Prophet ﷺ used.",
+        "readMins": 6,
+        "emoji": "🎵"
+      },
+      {
+        "id": "quran:memorisation",
+        "title": "How to Memorise the Quran (Hifz)",
+        "snippet": "Tested methods and daily habits for building and maintaining your Hifz.",
+        "readMins": 5,
+        "emoji": "🧠"
+      },
+      {
+        "id": "quran:virtues",
+        "title": "Virtues of Specific Surahs",
+        "snippet": "Al-Baqarah, Al-Kahf, Ya-Sin, Al-Mulk — rewards and recommended times.",
+        "readMins": 5,
+        "emoji": "💎"
+      }
+    ],
+    "seerah": [
+      {
+        "id": "seerah:birth",
+        "title": "The Birth of the Prophet ﷺ",
+        "snippet": "Year of the Elephant, Makkah, and the extraordinary signs at his birth.",
+        "readMins": 5,
+        "emoji": "⭐"
+      },
+      {
+        "id": "seerah:character",
+        "title": "The Character of the Prophet ﷺ",
+        "snippet": "Al-Amin — the trustworthy. His manners, humility, and love for the Ummah.",
+        "readMins": 7,
+        "emoji": "💎"
+      },
+      {
+        "id": "seerah:hijrah",
+        "title": "The Hijrah to Madinah",
+        "snippet": "The migration that changed history — a new beginning for Islam.",
+        "readMins": 6,
+        "emoji": "🌙"
+      },
+      {
+        "id": "seerah:farewell",
+        "title": "The Farewell Sermon",
+        "snippet": "The Prophet's final message to humanity — timeless, universal, complete.",
+        "readMins": 5,
+        "emoji": "🕊️"
+      }
+    ],
+    "duas": [
+      {
+        "id": "duas:morning",
+        "title": "Morning Adhkar",
+        "snippet": "Prophetic supplications to begin each day with Allah's protection.",
+        "readMins": 4,
+        "emoji": "🌅"
+      },
+      {
+        "id": "duas:evening",
+        "title": "Evening Adhkar",
+        "snippet": "Sunset remembrances that seal the day with gratitude and protection.",
+        "readMins": 4,
+        "emoji": "🌆"
+      },
+      {
+        "id": "duas:etiquette",
+        "title": "Etiquette of Making Dua",
+        "snippet": "How to call upon Allah — the conditions, manners, and best times.",
+        "readMins": 5,
+        "emoji": "🤲"
+      },
+      {
+        "id": "duas:powerful",
+        "title": "Powerful Duas from the Quran",
+        "snippet": "Supplications the prophets made in their most difficult moments.",
+        "readMins": 6,
+        "emoji": "📖"
+      }
+    ],
+    "heart": [
+      {
+        "id": "heart:tazkiyah",
+        "title": "Introduction to Tazkiyah",
+        "snippet": "Soul purification — the fourth mission of the Prophet ﷺ.",
+        "readMins": 5,
+        "emoji": "💚"
+      },
+      {
+        "id": "heart:diseases",
+        "title": "Diseases of the Heart",
+        "snippet": "Pride, envy, miserliness, riya — their signs, dangers, and cures.",
+        "readMins": 8,
+        "emoji": "💔"
+      },
+      {
+        "id": "heart:dhikr",
+        "title": "The Power of Dhikr",
+        "snippet": "Remembrance of Allah — the food of the heart, the cure for anxiety.",
+        "readMins": 5,
+        "emoji": "✨"
+      }
+    ],
+    "history": [
+      {
+        "id": "history:khulafa",
+        "title": "The Rightly-Guided Caliphs",
+        "snippet": "Abu Bakr, Umar, Uthman, and Ali — the four who carried the torch.",
+        "readMins": 8,
+        "emoji": "👑"
+      },
+      {
+        "id": "history:golden",
+        "title": "The Islamic Golden Age",
+        "snippet": "How Muslim scholars lit the torch of knowledge from 750–1258 CE.",
+        "readMins": 7,
+        "emoji": "🏛️"
+      },
+      {
+        "id": "history:makkah",
+        "title": "The History of Makkah & the Kaabah",
+        "snippet": "From Ibrahim ﷺ to the conquest — the eternal city and its sacred house.",
+        "readMins": 8,
+        "emoji": "🕋"
+      }
+    ],
+    "pillars": [
+      {
+        "id": "pillars:salah",
+        "title": "Salah: The Pillar of the Deen",
+        "snippet": "The five daily prayers — their times, conditions, and spiritual depth.",
+        "readMins": 7,
+        "emoji": "🕌"
+      },
+      {
+        "id": "pillars:zakat",
+        "title": "Zakat: Purifying Your Wealth",
+        "snippet": "Who must pay, how much, and who deserves it — the third pillar.",
+        "readMins": 6,
+        "emoji": "💰"
+      },
+      {
+        "id": "pillars:sawm",
+        "title": "Sawm: The Fast of Ramadan",
+        "snippet": "What it means to fast — body, soul, and intention.",
+        "readMins": 6,
+        "emoji": "🌙"
+      },
+      {
+        "id": "pillars:hajj",
+        "title": "Hajj: The Greatest Pilgrimage",
+        "snippet": "The fifth pillar — its rites, their meanings, and why every step matters.",
+        "readMins": 8,
+        "emoji": "🕋"
+      }
+    ],
+    "prophets": [
+      {
+        "id": "prophets:adam",
+        "title": "Prophet Adam ﷺ — The First Man",
+        "snippet": "Creation, the fall, repentance, and a new beginning on earth.",
+        "readMins": 6,
+        "emoji": "🌿"
+      },
+      {
+        "id": "prophets:ibrahim",
+        "title": "Prophet Ibrahim ﷺ — Friend of Allah",
+        "snippet": "From fire to Kaabah — the greatest tests and unshakeable faith.",
+        "readMins": 7,
+        "emoji": "🔥"
+      },
+      {
+        "id": "prophets:musa",
+        "title": "Prophet Musa ﷺ — The Spoken-To",
+        "snippet": "Egypt, Pharaoh, miracles, and the Torah — the most mentioned prophet.",
+        "readMins": 7,
+        "emoji": "⚡"
+      },
+      {
+        "id": "prophets:isa",
+        "title": "Prophet Isa ﷺ — Spirit of Allah",
+        "snippet": "His miraculous birth, mission, ascension, and expected return.",
+        "readMins": 6,
+        "emoji": "✨"
+      },
+      {
+        "id": "prophets:yusuf",
+        "title": "Prophet Yusuf ﷺ — The Best of Stories",
+        "snippet": "Dreams, betrayal, prison, and ultimate forgiveness — the complete story.",
+        "readMins": 8,
+        "emoji": "🌟"
+      }
+    ],
+    "fiqh": [
+      {
+        "id": "fiqh:purity",
+        "title": "Taharah: Islamic Purification",
+        "snippet": "Wudu, ghusl, tayammum — conditions of purity for worship.",
+        "readMins": 6,
+        "emoji": "💧"
+      },
+      {
+        "id": "fiqh:halal",
+        "title": "Halal and Haram in Food",
+        "snippet": "What is permissible, what is forbidden — with clear evidences.",
+        "readMins": 5,
+        "emoji": "✅"
+      }
+    ],
+    "akhlaq": [
+      {
+        "id": "akhlaq:honesty",
+        "title": "Truthfulness (Sidq) in Islam",
+        "snippet": "Why honesty is the foundation of every other virtue.",
+        "readMins": 5,
+        "emoji": "🤝"
+      },
+      {
+        "id": "akhlaq:patience",
+        "title": "Sabr: The Beauty of Patience",
+        "snippet": "Three types of patience — and why it leads to Allah's love.",
+        "readMins": 5,
+        "emoji": "🌊"
+      },
+      {
+        "id": "akhlaq:gratitude",
+        "title": "Shukr: Gratitude to Allah",
+        "snippet": "Why thankfulness increases blessings — and how to practice it daily.",
+        "readMins": 5,
+        "emoji": "🌸"
+      }
+    ],
+    "arabic": [
+      {
+        "id": "arabic:why",
+        "title": "Why Learn Arabic?",
+        "snippet": "The language of the Quran, hadith, and the prayer — its unique power.",
+        "readMins": 4,
+        "emoji": "🔤"
+      },
+      {
+        "id": "arabic:alphabet",
+        "title": "The Arabic Alphabet",
+        "snippet": "28 letters, right to left — your gateway into the Quran's language.",
+        "readMins": 5,
+        "emoji": "📝"
+      }
+    ],
+    "science": [
+      {
+        "id": "science:quran",
+        "title": "Scientific Signs in the Quran",
+        "snippet": "Embryology, oceanography, astronomy — and what scholars say.",
+        "readMins": 7,
+        "emoji": "🔬"
+      }
+    ],
+    "youth": [
+      {
+        "id": "youth:identity",
+        "title": "Muslim Identity in the Modern World",
+        "snippet": "Who are you? Navigating faith, culture, and pressure with confidence.",
+        "readMins": 6,
+        "emoji": "🌟"
+      },
+      {
+        "id": "youth:social-media",
+        "title": "Social Media & Islam",
+        "snippet": "Screens, scrolling, and your soul — what Islam says and how to balance.",
+        "readMins": 5,
+        "emoji": "📱"
+      }
+    ],
+    "family": [
+      {
+        "id": "family:marriage",
+        "title": "Marriage in Islam",
+        "snippet": "A contract, a mercy, a sunnah — the Islamic view on nikah.",
+        "readMins": 7,
+        "emoji": "💍"
+      },
+      {
+        "id": "family:parents",
+        "title": "Rights of Parents in Islam",
+        "snippet": "Why obedience to parents is mentioned alongside worship of Allah.",
+        "readMins": 6,
+        "emoji": "🏡"
+      }
+    ],
+    "aqeedah": [
+      {
+        "id": "aqeedah:pillars",
+        "title": "The Six Pillars of Iman",
+        "snippet": "Allah, angels, books, messengers, last day, qadr — what they mean.",
+        "readMins": 7,
+        "emoji": "☝️"
+      },
+      {
+        "id": "aqeedah:qadr",
+        "title": "Qadar: Divine Decree",
+        "snippet": "Allah's knowledge, will, and power over all things — and your free choice.",
+        "readMins": 8,
+        "emoji": "⭐"
+      }
+    ],
+    "ethics": [
+      {
+        "id": "ethics:justice",
+        "title": "Justice (Adl) in Islam",
+        "snippet": "Islam's uncompromising stance on fairness — in courts, homes, and hearts.",
+        "readMins": 6,
+        "emoji": "⚖️"
+      }
+    ]
+  }
+}
